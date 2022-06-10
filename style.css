@@ -1,0 +1,56 @@
+body {
+    background-color: rgba(206, 206, 206, 0.815);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    max-width: 600px;
+    margin: auto;
+}
+.foto {
+    border: 1px solid chocolate;
+    border-radius: 45px;
+}
+
+.propaganda {
+    font-size: 15px color: salmon;
+}
+
+
+#title, .subtitle, .post_title {
+color: chocolate;
+}
+.post_title {
+    font-size: 16px;
+    font-style: italic;
+}
+
+.title {
+    font-size: 40px;
+    text-transform: uppercase;
+}
+
+a {
+    text-decoration: lightgoldenrodyellow;
+    color: sienna;
+}
+
+.post {
+    background-color: rgb(253, 252, 251);
+    padding: 20px;
+    border: 3px solid  grey;
+    margin: 20px ;
+    margin-right: 80px;
+
+}
+.contatos  { 
+    list-style-type: none;
+    text-align: left;
+
+}
+
+.contatos li a {
+    color: rgb(34, 34, 34);
+}
+
+.cabeçalho{
+width: 100%;
+}
+
